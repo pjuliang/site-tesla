@@ -2,10 +2,6 @@
 // querySelector = busca o que eu quiser que ele busque
 
 
-document.getElementById('comprarAgoraBtn').addEventListener('click', function() {
-    document.getElementById('formulario').classList.toggle('visible');
-});
-
 
 let formulario = document.querySelector(".formulario")
 
