@@ -177,6 +177,10 @@ button {
     height: 100%;
     z-index: 3;
     left: -50%;
-    transition: 1.5s;
+    transition: left 1.5s;
+}
+
+.formulario.visible {
+    left: 0;
 }
 }
