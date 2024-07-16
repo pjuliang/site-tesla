@@ -180,7 +180,5 @@ button {
     transition: left 1.5s;
 }
 
-.formulario.visible {
-    left: 0;
-}
+
 }
