@@ -176,7 +176,7 @@ button {
     width: 300px;
     height: 100%;
     z-index: 3;
-    left: -50%;
+    left: -100%;
     transition: left 1.5s;
 }
 
